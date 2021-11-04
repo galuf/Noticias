@@ -1,4 +1,4 @@
-# Letras de Canciones e Info
+# Noticias
 
 Una pequeña aplicacion hecha en React para mostrar noticias segun genero ( aprendizaje de customeHooks, consumo de API )
 
